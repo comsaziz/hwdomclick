@@ -63,7 +63,7 @@ changeContent("footiphone", "Phone: +966553899550.", "Phone: 123-456-7890.");
 changeContent("footemail", "Email: comsaziz2@gmail.com", "Email: hello@reallygreatsite.com");
 changeContent("city1", "Madinah.", "Wardiere Inc. / CTO");
 changeContent("iphone2", "Phone: +966553899550.", "Phone: 123-456-7890.");
-changeContent("email3", "Email: comsaziz2@gmail.com", "Email: hello@reallygreatsite.com");
+changeContent("email3", "Email: comsaziz2@gmail.com", "hello@reallygreatsite.com");
 changeContent("name_5", "Abdulaziz Alhazmi", "Estelle Darcy");
 changeContent("name_6", "Abdulaziz", "Harper Richard");
 image("img1", "Programming.png", "Bussines.png");
