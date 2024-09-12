@@ -45,7 +45,7 @@ changeContent("en", "English / Professional", "English (Fluent)");
 changeContent("ar", "Arabic / Native", "Arabic (Fluent)");
 changeContent("nam22", "Abdulaziz Alhazmi", "RICHARD SANCHEZ");
 changeContent("major3", "Bachelor's in Computer Sciences.", "MARKETING MANAGER");
-changeContent("profile1", "Computer science graduate with a solid background in software engineering, focused on cybersecurity and Entity Framework. Skilled in SQL Server database management and experienced in blockchain development using Solidity and Truffle.", "Lorem ipsum dolor sit amet, consectetur adipiscing elit.");
+changeContent("profile1", "Computer science graduate with a solid background in software engineering, focused on cybersecurity and Entity Framework. Skilled in SQL Server database management and experienced in blockchain development using Solidity and Truffle.", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation. Lorem ipsum dolor sit        amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation. Ut enim ad minim veniam quis nostrud exercitation.");
 changeContent("exp1", "Graduation Project 2024.", "Borcelto Studio");
 changeContent("exp2", "Bachelor's in Computer Sciences.", "Marketing Manager & Specialist");
 changeContent("exp3", "Built a blockchain-integrated Flutter application that enables parents to establish cryptocurrency wallets for transactions.", "Create and manage the marketing budget.");
