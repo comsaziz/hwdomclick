@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+ body {
+   background-color: #fff;
+}
+
+.continer {
+    width: 100%;
+    min-height: auto;
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    box-shadow: 0 35px 55px rgba(0, 0, 0, 0.1)
+} 
+
+.continer .left {
+    position: relative;
+    background-color: #163853;
+  padding: 50px;
+}
+
+
+.img_person img {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    overflow: hidden;
+    background-color: #fff;
+    padding: 9px;
+
+}
+
+.line1 {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    border: 1px solid #c0d4dd;
+    opacity: 0.50;
+}
+
+.info {
+    font-family: "sans-serif";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: 30px;
+  
+
+}
+
+.text {
+    color: #f0f2f4;
+    padding: 10px;
+
+}
+
+.year {
+    font-family: "sans-serif";
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+
+
+
+
+}
+
+.uni {
+    font-family: "sans-serif";
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+
+}
+
+.spealist {
+    font-family: "sans-serif";
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 6px;
+
+}
+
+.ul_ li {
+    color: #fff;
+    margin-left: 13px;
+}
+.continer .right {
+    position: relative;
+    background-color: #fff;
+    padding: 15px;
+}
+
+
+.about_cv {
+    margin-left: 10%;
+    letter-spacing: 1px;
+    
+
+}
+
+.name_1 {
+    color: #545454;
+    font-weight: bold;
+    font-size: 38px;
+
+
+}
+
+.name_2 {
+    color: #435e74;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+.name_3 {
+    color: #bbc3c7;
+    font-weight: bold;
+    font-size: 20px;
+    
+  
+
+}
+.line2{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 17%;
+    border: 3px solid #425563;
+    
+
+}
+
+
+
+.head{
+    color: #1a4160;
+    
+}
+
+.line3{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    border: 1px solid #dcdcdd;
+  
+}
+
+.par1{
+   color: gray;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between; 
+    padding: 20px;
+    width: 100%;
+}
+
+.foot1, .foot2 {
+    list-style-type: none; 
+    
+}
+
+.foot1 {
+    color: gray; 
+}
+
+.foot2 {
+    color: gray;
+}
+
+.footer li {
+    margin-bottom: 5px; 
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+    .continer {
+    display: grid;
+    grid-template-columns: 1fr;
+    }
+}
+
+
+
+
